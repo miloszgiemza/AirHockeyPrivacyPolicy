@@ -1,5 +1,5 @@
 Privacy Policy – Air Hockey
-Last updated: [Date]
+Last updated: 20.11.2025
 This Privacy Policy explains how the mobile application Air Hockey (“the App”, “we”, “us”, or “our”) handles user information.
 We respect your privacy and are committed to protecting it.
 
@@ -31,3 +31,5 @@ Any changes will be posted here, and the updated date will appear at the top of 
 6. Contact
 If you have any questions about this Privacy Policy, please contact us:
 miloszgiemzadeveloper@wp.pl
+
+
